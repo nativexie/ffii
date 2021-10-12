@@ -1,2 +1,2 @@
-# fintech_frontier_intelligence_insights
+# ffii
 Fintech Frontier Intelligence Insights
