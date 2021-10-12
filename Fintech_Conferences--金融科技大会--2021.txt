@@ -1,0 +1,113 @@
+技术领域大会：
+2021-03 OC3 开放机密计算大会
+https://hopin.com/events/oc3-2021
+
+2021-04 GDC 全球分布式云大会
+http://www.gdc-alliance.org/
+
+2021-04 全球机器学习技术大会
+http://ml-summit.org/
+
+2021-05 GOPS 全球运维大会
+### https://www.bagevent.com/event/7134184
+
+2021-06 云计算大会
+https://www.cloudconnectevent.cn/zh-cn/index
+
+2021-07 GOTC 全球开源技术大会
+https://gotc.oschina.net/
+
+2021-07 可信云大会
+http://www.idcquan.com/Special/2021trucs/index.html
+
+2021-07 世界人工智能大会
+https://www.worldaic.com.cn/
+
+2021-08 Computing Conference
+https://saiconference.com/Conferences/Computing2021
+
+2021-09 OSCAR 开源产业大会
+http://www.idcquan.com/Special/2021OSCAR/
+
+2021-09 全球产品经理大会
+http://pm-summit.org/
+
+2021-09 世界互联网大会乌镇峰会
+https://www.wicwuzhen.cn/
+
+2021-09 中国金融科技创新大会
+https://www.china-cic.cn/Detail/24/60/3294
+无下载
+
+2021-10 devops国际峰会
+https://www.bagevent.com/event/7388084
+未举办
+
+2021-10 中国计算机大会
+https://cncc.ccf.org.cn/web/html15/index.html?globalId=m8271748750546083841617255458379&type=1
+未举办
+
+2021-11 AICon 全球人工智能与机器学习大会
+https://aicon.infoq.cn/2021/beijing/?utm_source=wechat&amp%3Butm_medium=aifront&amp%3Butm_campaign=8&amp%3Butm_term=0708&amp%3Butm_content=arti3
+未举办
+
+2021-11 QECon 全球软件质量&效能大会
+http://www.qecon.net/
+
+2021-11 全球C++及系统软件技术大会
+http://cpp-summit.org/
+
+2021-11 SDCon 全球软件研发技术峰会
+http://sdcon.com.cn/
+
+--------------------------------------------------------------------------------
+头部企业大会：
+2021-05 google io
+https://events.google.com/io/?lng=en
+无下载
+
+2021-05 microsoft build
+https://mybuild.microsoft.com/home
+https://news.microsoft.com/build2021/
+
+2021-03 microsoft ignite
+https://myignite.microsoft.com/home
+https://news.microsoft.com/march-2021-ignite/
+
+2021-09 亚马逊云科技中国峰会
+https://www.awsevents.cn/summit/index.aspx
+无下载
+
+2021-08 amazon aws innovate
+https://aws.amazon.com/events/innovate-online-conference/
+https://aws.amazon.com/events/aws-innovate/data/resources/
+无下载
+
+2021-11 amazon re:invent
+https://reinvent.awsevents.com/
+无下载
+
+2021-08 amazon summit
+https://aws.amazon.com/events/summits/online/americas/
+无下载
+
+2021-06 facebook f8 refresh
+https://developers.facebook.com/f8/
+无下载
+
+2021-05 华为中国生态大会
+https://e-campaign.huawei.com/campaign/partner2021-minisite-1/home/
+无下载
+
+2021-08 百度世界大会
+https://baiduworld.baidu.com/2021/m/world/home?sfrom=pc2021
+无下载
+
+2021-10 阿里云栖大会
+https://yunqi.aliyun.com/
+未举办
+
+2021-11 腾讯全球数字生态大会
+https://des.cloud.tencent.com/2021/#/
+未举办
+
