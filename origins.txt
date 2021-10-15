@@ -73,7 +73,7 @@ https://dev.mi.com/console/cloud/
 
 --------------------------------------------------------------------------------
 # 国外头部企业
-# FAAMG .etc
+# FAAMG,etc.
 https://research.fb.com/
 
 https://www.amazon.science/
