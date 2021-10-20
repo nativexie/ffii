@@ -93,7 +93,6 @@ https://developers.googleblog.com/
 
 --------------------------------------------------------------------------------
 http://ww42.oreily.com/
-http://ww1.garther.com/
 http://www.cs.ox.ac.uk/research/
 https://www.csail.mit.edu/
 https://www.ieee.org/
@@ -122,12 +121,25 @@ https://news.ycombinator.com/
 
 https://www.docker.com/blog/
 --------------------------------------------------------------------------------
-咨询公司 MBB
-McKinsey
-Boston Consulting Group
-Bain
+# 国际三大咨询公司 MBB
+McKinsey 麦肯锡
+https://www.mckinsey.com/
 
-accenture
+Boston Consulting Group 波斯顿咨询
+https://www.bcg.com/en-us/
+
+Bain 贝恩咨询
+https://www.bain.com/
+
+# IT咨询公司
+accenture 爱森哲
+https://www.accenture.com/us-en
+https://www.accenture.cn/cn-zh
+
+gartner 高德纳
+https://www.gartner.com/en
+https://www.gartner.com/cn
+
 --------------------------------------------------------------------------------
 https://www.theverge.com/
 
@@ -139,3 +151,6 @@ https://towardsdatascience.com/
 --------------------------------------------------------------------------------
 https://global.v2ex.com/
 
+https://www.thoughtworks.com/cn/radar
+
+https://medium.com/kaggle-blog
