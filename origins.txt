@@ -1,5 +1,6 @@
 # 国内综合资讯
 http://www.oschina.net/
+
 https://www.infoq.cn/
 
 --------------------------------------------------------------------------------
@@ -70,7 +71,6 @@ https://mtlab.meitu.com/
 小米AI
 https://dev.mi.com/console/cloud/
 
-
 --------------------------------------------------------------------------------
 # 国外头部企业
 # FAAMG,etc.
@@ -90,17 +90,21 @@ https://research.google/
 https://cloud.google.com/blog/
 https://developers.googleblog.com/
 
+https://developer.ibm.com/blogs/
+https://www.ibm.com/opensource/blogs/
 
+https://deepmind.com/blog
+
+https://openai.com/blog/
 --------------------------------------------------------------------------------
 http://ww42.oreily.com/
 http://www.cs.ox.ac.uk/research/
+https://news.mit.edu/
 https://www.csail.mit.edu/
 https://www.ieee.org/
 https://ai.stanford.edu/
 https://amplab.cs.berkeley.edu/
 https://www.cmu.edu/research/index.html
-https://www.infoq.cn/
-https://www.oschina.net/
 
 ----------------------------------------
 ###addition
@@ -121,7 +125,7 @@ https://news.ycombinator.com/
 
 https://www.docker.com/blog/
 --------------------------------------------------------------------------------
-# 国际三大咨询公司 MBB
+# MBB 国际三大咨询公司
 McKinsey 麦肯锡
 https://www.mckinsey.com/
 
@@ -154,3 +158,5 @@ https://global.v2ex.com/
 https://www.thoughtworks.com/cn/radar
 
 https://medium.com/kaggle-blog
+
+https://www.statista.com/
