@@ -1,10 +1,39 @@
 # 国内综合资讯
+
 http://www.oschina.net/
 
 https://www.infoq.cn/
 
+https://www.qbitai.com/
+
+https://www.jiqizhixin.com/
+
+https://global.v2ex.com/
+--------------------------------------------------------------------------------
+# 国外综合资讯
+
+https://news.ycombinator.com/
+
+https://www.infoq.com/
+https://www.infoq.com/Cloud/news/
+
+https://www.infoworld.com/
+
+https://www.oreilly.com/
+https://www.oreilly.com/radar/
+
+https://www.thoughtworks.com/radar
+https://www.thoughtworks.com/cn/radar
+
+https://www.theverge.com/
+
+https://medium.com/tag/programming
+https://betterprogramming.pub/
+
+https://www.extremetech.com/
 --------------------------------------------------------------------------------
 # BAT等国内头部企业
+
 百度研究院
 http://research.baidu.com/Index
 
@@ -72,8 +101,8 @@ https://mtlab.meitu.com/
 https://dev.mi.com/console/cloud/
 
 --------------------------------------------------------------------------------
-# 国外头部企业
-# FAAMG,etc.
+# FAAMG,etc. 国外头部企业
+
 https://research.fb.com/
 
 https://www.amazon.science/
@@ -96,36 +125,11 @@ https://www.ibm.com/opensource/blogs/
 https://deepmind.com/blog
 
 https://openai.com/blog/
---------------------------------------------------------------------------------
-http://ww42.oreily.com/
-http://www.cs.ox.ac.uk/research/
-https://news.mit.edu/
-https://www.csail.mit.edu/
-https://www.ieee.org/
-https://ai.stanford.edu/
-https://amplab.cs.berkeley.edu/
-https://www.cmu.edu/research/index.html
-
-----------------------------------------
-###addition
-https://www.acm.org/
-https://dl.acm.org/
-https://dl.acm.org/conference/pldi
-
-https://www.infoq.com/Cloud/news/
-
-https://www.infoworld.com/
-
-https://spectrum.ieee.org/
-
-https://www.qbitai.com/
-
-https://arxiv.org/list/cs.DC/recent
-https://news.ycombinator.com/
 
 https://www.docker.com/blog/
 --------------------------------------------------------------------------------
 # MBB 国际三大咨询公司
+
 McKinsey 麦肯锡
 https://www.mckinsey.com/
 
@@ -145,18 +149,28 @@ https://www.gartner.com/en
 https://www.gartner.com/cn
 
 --------------------------------------------------------------------------------
-https://www.theverge.com/
+# 国外学术机构
+
+https://news.mit.edu/
+https://www.csail.mit.edu/
+https://ai.stanford.edu/
+https://amplab.cs.berkeley.edu/
+https://www.cmu.edu/research/index.html
+http://www.cs.ox.ac.uk/research/
+
+https://www.ieee.org/
+https://spectrum.ieee.org/
+
+https://www.acm.org/
+https://dl.acm.org/
+https://dl.acm.org/conference/pldi
+
+https://arxiv.org/list/cs.DC/recent
 
 --------------------------------------------------------------------------------
-https://medium.com/tag/programming
-https://betterprogramming.pub/
+# AMDD: artificial intelligence, machine learning, deep learning, data science
 https://towardsdatascience.com/
-
---------------------------------------------------------------------------------
-https://global.v2ex.com/
-
-https://www.thoughtworks.com/cn/radar
-
+https://www.kaggle.com/
 https://medium.com/kaggle-blog
-
 https://www.statista.com/
+
