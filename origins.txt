@@ -9,6 +9,8 @@ https://www.qbitai.com/
 https://www.jiqizhixin.com/
 
 https://global.v2ex.com/
+
+https://www.ruanyifeng.com/blog/
 --------------------------------------------------------------------------------
 # 国外综合资讯
 
@@ -122,10 +124,6 @@ https://developers.googleblog.com/
 https://developer.ibm.com/blogs/
 https://www.ibm.com/opensource/blogs/
 
-https://deepmind.com/blog
-
-https://openai.com/blog/
-
 https://www.docker.com/blog/
 --------------------------------------------------------------------------------
 # MBB 国际三大咨询公司
@@ -169,9 +167,17 @@ https://arxiv.org/list/cs.DC/recent
 
 --------------------------------------------------------------------------------
 # AMDD: artificial intelligence, machine learning, deep learning, data science
+https://deepmind.com/blog
+
+https://openai.com/blog/
+
 https://towardsdatascience.com/
+
 https://www.kaggle.com/
 https://medium.com/kaggle-blog
-https://www.statista.com/
+
 https://huggingface.co/
+https://huggingface.co/blog
+
+https://www.statista.com/
 
