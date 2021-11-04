@@ -114,6 +114,9 @@ https://cloud.withgoogle.com/next
 2021-10 microsoft research summit
 https://researchsummit.microsoft.com/home_public
 
+2021-10-27 稀土开发者大会
+https://live.juejin.cn/site/4354/xdc2021
+
 2021-11 腾讯全球数字生态大会
 https://des.cloud.tencent.com/2021/#/
 未举办

@@ -8,12 +8,13 @@ https://www.qbitai.com/
 
 https://www.jiqizhixin.com/
 
-https://global.v2ex.com/
-
 https://www.ruanyifeng.com/blog/
+
+https://global.v2ex.com/
 --------------------------------------------------------------------------------
 # 国外综合资讯
 
+hackernews
 https://news.ycombinator.com/
 
 https://www.infoq.com/
@@ -103,7 +104,7 @@ https://mtlab.meitu.com/
 https://dev.mi.com/console/cloud/
 
 --------------------------------------------------------------------------------
-# FAAMG,etc. 国外头部企业
+# FAAMG, etc. 国外头部企业
 
 https://research.fb.com/
 
@@ -146,6 +147,13 @@ gartner 高德纳
 https://www.gartner.com/en
 https://www.gartner.com/cn
 
+德勤管理咨询
+https://www2.deloitte.com/us/en/services/consulting.html
+https://www2.deloitte.com/cn/zh/services/consulting.html
+
+艾瑞咨询
+https://www.iresearch.com.cn/
+
 --------------------------------------------------------------------------------
 # 国外学术机构
 
@@ -163,7 +171,13 @@ https://www.acm.org/
 https://dl.acm.org/
 https://dl.acm.org/conference/pldi
 
+# 论文预印本
+https://arxiv.org/
+https://arxiv.org/list/cs.SE/recent
 https://arxiv.org/list/cs.DC/recent
+
+# 论文实现代码
+https://paperswithcode.com/
 
 --------------------------------------------------------------------------------
 # AMDD: artificial intelligence, machine learning, deep learning, data science
