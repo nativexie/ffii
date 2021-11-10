@@ -121,3 +121,5 @@ https://live.juejin.cn/site/4354/xdc2021
 https://des.cloud.tencent.com/2021/#/
 未举办
 
+2021-11 NVIDIA GTC(GPU TECHNOLOGY CONFERENCE)
+https://www.nvidia.com/gtc/
