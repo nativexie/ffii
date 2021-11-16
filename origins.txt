@@ -126,6 +126,9 @@ https://developer.ibm.com/blogs/
 https://www.ibm.com/opensource/blogs/
 
 https://www.docker.com/blog/
+
+https://blogs.nvidia.cn/
+
 --------------------------------------------------------------------------------
 # MBB 国际三大咨询公司
 
