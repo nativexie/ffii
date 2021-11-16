@@ -14,7 +14,7 @@ https://global.v2ex.com/
 --------------------------------------------------------------------------------
 # 国外综合资讯
 
-hackernews
+hacker news
 https://news.ycombinator.com/
 
 https://www.infoq.com/
