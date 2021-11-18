@@ -14,8 +14,14 @@ https://global.v2ex.com/
 --------------------------------------------------------------------------------
 # 国外综合资讯
 
-hacker news
+Hacker News
 https://news.ycombinator.com/
+
+Lobsters
+https://lobste.rs/
+
+reddit
+https://www.reddit.com/r/technology/
 
 https://www.infoq.com/
 https://www.infoq.com/Cloud/news/
@@ -34,6 +40,7 @@ https://medium.com/tag/programming
 https://betterprogramming.pub/
 
 https://www.extremetech.com/
+
 --------------------------------------------------------------------------------
 # BAT等国内头部企业
 
