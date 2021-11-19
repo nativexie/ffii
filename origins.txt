@@ -149,19 +149,32 @@ Bain 贝恩咨询
 https://www.bain.com/
 
 # IT咨询公司
-accenture 爱森哲
+Accenture 爱森哲
 https://www.accenture.com/us-en
 https://www.accenture.cn/cn-zh
 
-gartner 高德纳
+IBM Consulting IBM咨询
+https://www.ibm.com/consulting/
+https://www.ibm.com/cn-zh
+
+# 其他咨询公司
+Gartner 高德纳
 https://www.gartner.com/en
 https://www.gartner.com/cn
 
-德勤管理咨询
+International Data Corporation(IDC) 国际数据公司
+https://www.idc.com/
+https://www.idc.com/cn
+
+Forrester
+https://www.forrester.com/
+
+Deloitte Consulting 德勤管理咨询
 https://www2.deloitte.com/us/en/services/consulting.html
 https://www2.deloitte.com/cn/zh/services/consulting.html
 
-艾瑞咨询
+# 国内咨询公司
+艾瑞咨询 iResearch
 https://www.iresearch.com.cn/
 
 --------------------------------------------------------------------------------
