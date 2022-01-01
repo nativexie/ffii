@@ -218,3 +218,4 @@ https://huggingface.co/blog
 
 https://www.statista.com/
 
+https://read.deeplearning.ai/the-batch/
