@@ -135,6 +135,48 @@ https://www.ibm.com/opensource/blogs/
 https://www.docker.com/blog/
 
 https://blogs.nvidia.cn/
+--------------------------------------------------------------------------------
+# 国外金融机构
+Goldman Sachs
+https://www.goldmansachs.com/
+
+Morgan Stanley
+https://www.morganstanley.com/
+
+Jp Morgan Chase
+https://www.jpmorganchase.com/
+
+Jp Morgan
+https://www.jpmorgan.com/global
+
+BlackRock
+https://www.blackrock.com/corporate
+https://www.blackrock.com/us/individual
+https://www.blackrock.com.cn/
+
+UBS
+https://www.ubs.com/global/en.html
+
+BridgeWater
+https://www.bridgewater.com/
+
+--------------------------------------------------------------------------------
+# 国际三大评级公司
+Moody
+https://www.moodys.com/
+
+Fitch Ratings
+https://www.fitchratings.com/
+
+Standard & Poor's Ratings
+https://www.spglobal.com/ratings/en/
+--------------------------------------------------------------------------------
+# 金融资讯
+Bloomberg
+https://www.bloomberg.com/
+
+Wind
+https://www.wind.com.cn/
 
 --------------------------------------------------------------------------------
 # MBB 国际三大咨询公司
@@ -149,7 +191,7 @@ Bain 贝恩咨询
 https://www.bain.com/
 
 # IT咨询公司
-Accenture 爱森哲
+Accenture 埃森哲
 https://www.accenture.com/us-en
 https://www.accenture.cn/cn-zh
 
@@ -172,6 +214,9 @@ https://www.forrester.com/
 Deloitte Consulting 德勤管理咨询
 https://www2.deloitte.com/us/en/services/consulting.html
 https://www2.deloitte.com/cn/zh/services/consulting.html
+
+PWC
+https://www.pwc.com/
 
 # 国内咨询公司
 艾瑞咨询 iResearch
