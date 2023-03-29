@@ -9,7 +9,7 @@ https://towardsdatascience.com/language-models-gpt-and-gpt-2-8bdb9867c50a
 https://timhanewich.medium.com/running-openais-gpt-2-language-model-on-your-pc-5d5e1b9fbb8b
 
 
-### Alternative, Open Source ###
+### Open Source Alternatives ###
 EleutherAI
 https://huggingface.co/EleutherAI/gpt-j-6B
 https://huggingface.co/EleutherAI/gpt-neox-20b
@@ -41,3 +41,11 @@ https://huggingface.co/cerebras/Cerebras-GPT-13B
 
 
 https://github.com/nomic-ai/gpt4all
+
+--------------------------------------------------------------------------------
+### Reference ###
+
+https://github.com/huggingface/transformers
+
+Fine-tune a pretrained model
+https://huggingface.co/docs/transformers/main/en/training
