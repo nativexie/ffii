@@ -10,34 +10,34 @@ https://timhanewich.medium.com/running-openais-gpt-2-language-model-on-your-pc-5
 
 
 ### Open Source Alternatives ###
-EleutherAI
+EleutherAI GPT-J-6B
 https://huggingface.co/EleutherAI/gpt-j-6B
 https://huggingface.co/EleutherAI/gpt-neox-20b
 https://www.eleuther.ai/
 
 
-stanford university alpaca, based on LLaMa
+Stanford University Alpaca
 https://crfm.stanford.edu/2023/03/13/alpaca.html
 https://github.com/tatsu-lab/stanford_alpaca
 https://huggingface.co/datasets/tatsu-lab/alpaca
 https://huggingface.co/chavinlo/alpaca-native
 
 
-Tsinghua University 
+Tsinghua University ChatGLM-6B
 https://github.com/THUDM/ChatGLM-6B
 https://huggingface.co/THUDM/chatglm-6b
 https://github.com/THUDM/CodeGeeX
 
 
-Colossal AI
+ColossalAI  ColossalChat
 https://chat.colossalai.org/
 https://github.com/hpcaitech/ColossalAI
 https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b
 
 
-Cerebras
-https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
+Cerebras Cerebras-GPT-13B
 https://huggingface.co/cerebras/Cerebras-GPT-13B
+https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
 
 
 https://github.com/nomic-ai/gpt4all
