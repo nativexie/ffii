@@ -31,6 +31,7 @@ https://github.com/THUDM/CodeGeeX
 
 ColossalAI  ColossalChat
 https://chat.colossalai.org/
+https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat
 https://github.com/hpcaitech/ColossalAI
 https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b
 
