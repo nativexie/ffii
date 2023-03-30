@@ -11,10 +11,15 @@ https://timhanewich.medium.com/running-openais-gpt-2-language-model-on-your-pc-5
 
 
 ### Open Source Alternatives ###
-EleutherAI GPT-J-6B
-https://huggingface.co/EleutherAI/gpt-j-6B
+EleutherAI GPT-NEOX-20B
+https://blog.eleuther.ai/announcing-20b/
+https://github.com/EleutherAI/gpt-neox
 https://huggingface.co/EleutherAI/gpt-neox-20b
-https://www.eleuther.ai/
+
+
+EleutherAI GPT-J-6B
+https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
+https://huggingface.co/EleutherAI/gpt-j-6B
 
 
 Stanford University Alpaca
