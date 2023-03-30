@@ -60,6 +60,12 @@ Lianjia BELLE
 https://github.com/LianjiaTech/BELLE
 https://huggingface.co/BelleGroup
 
+
+togethercomputer/OpenChatKit
+https://www.together.xyz/blog/openchatkit
+https://github.com/togethercomputer/OpenChatKit
+https://huggingface.co/spaces/togethercomputer/OpenChatKit
+
 --------------------------------------------------------------------------------
 ### Reference ###
 
