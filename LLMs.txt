@@ -84,3 +84,6 @@ https://github.com/microsoft/LoRA
 
 Using LoRA for Efficient Stable Diffusion Fine-Tuning
 https://huggingface.co/blog/lora
+
+pretrained-models
+https://www.datalearner.com/ai-models/pretrained-models
