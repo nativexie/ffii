@@ -87,3 +87,10 @@ https://huggingface.co/blog/lora
 
 pretrained-models
 https://www.datalearner.com/ai-models/pretrained-models
+
+A Survey of Large Language Models
+https://arxiv.org/abs/2303.18223
+
+Transformer models: an introduction and catalog — 2023 Edition
+https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/
+https://arxiv.org/abs/2302.07730
