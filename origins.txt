@@ -11,6 +11,9 @@ https://www.jiqizhixin.com/
 https://www.ruanyifeng.com/blog/
 
 https://global.v2ex.com/
+
+中国统计局
+http://www.stats.gov.cn/
 --------------------------------------------------------------------------------
 # 国外综合资讯
 
@@ -179,6 +182,23 @@ https://www.bloomberg.com/
 Wind
 https://www.wind.com.cn/
 
+Trading Economics
+https://tradingeconomics.com/
+
+World Bank 世界银行
+https://www.worldbank.org/en/home
+
+Our World in Data
+https://ourworldindata.org/
+
+OECD
+https://data.oecd.org/
+
+IMF 国际货币基金组织
+https://www.imf.org/en/Data
+
+Seeking Alpha
+https://seekingalpha.com/
 --------------------------------------------------------------------------------
 # MBB 国际三大咨询公司
 
