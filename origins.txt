@@ -199,6 +199,9 @@ https://www.imf.org/en/Data
 
 Seeking Alpha
 https://seekingalpha.com/
+
+Fintech Open Source Foundation
+https://www.finos.org/
 --------------------------------------------------------------------------------
 # MBB 国际三大咨询公司
 
